@@ -19,6 +19,7 @@ body{
 
 hr{
     color: hsl(215, 32%, 27%);
+    opacity: 50%;
 }
 
 .card{
